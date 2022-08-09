@@ -13,10 +13,10 @@ $ git clone https://github.com/Zhukov-Z/ft
 $ cd ft
 ```
 ### Run
-'''
+```
 $ ./run sher untuk bot sher
 $ ./run kom untuk bot spam komen
-'''
+```
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/zhukov-z)
 [![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/galzxd)
