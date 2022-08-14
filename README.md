@@ -14,8 +14,7 @@ $ cd ft
 ```
 ### Run
 ```
-$ ./run sher untuk bot sher
-$ ./run kom untuk bot spam komen
+$ python run.py
 ```
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/zhukov-z)
